@@ -32,7 +32,7 @@ This repository showcases a collection of WordPress websites I have designed and
 ### 💰 Valcrest Trust
 🔗 https://valcresttrust.com/  
 
-![Preview](concrete.png)
+![Preview](valcrest.png)
 
 Cryptocurrency and investment platform concept designed with a modern fintech UI, focused on trust, clarity, and user engagement.
 
@@ -41,7 +41,7 @@ Cryptocurrency and investment platform concept designed with a modern fintech UI
 ### ⚖️ Prestige Law Firms
 🔗 https://prestigelawfirms.com/  
 
-![Preview](images/prestige-law.png)
+![Preview](prestige-law.png)
 
 Professional law firm website built to showcase legal services with a clean, authoritative, and conversion-focused design.
 
@@ -50,7 +50,7 @@ Professional law firm website built to showcase legal services with a clean, aut
 ### 🚚 ShieldPath Logistics
 🔗 https://shieldpathlogistics.com/  
 
-![Preview](images/shieldpath.png)
+![Preview](shieldpath.png)
 
 Modern logistics company website designed for service clarity, brand visibility, and customer engagement.
 
@@ -59,7 +59,7 @@ Modern logistics company website designed for service clarity, brand visibility,
 ### 🛒 GH Online Market
 🔗 https://ghonlinemarket.com/  
 
-![Preview](images/gh-market.png)
+![Preview](gh-market.png)
 
 E-commerce marketplace with product listings, user-friendly navigation, and responsive shopping experience.
 
@@ -68,7 +68,7 @@ E-commerce marketplace with product listings, user-friendly navigation, and resp
 ### 🎬 Melch Love Films
 🔗 https://melchlovefilms.com/  
 
-![Preview](images/melchlove.png)
+![Preview](melchlove.png)
 
 Creative portfolio website for a film production brand, focused on visual storytelling and modern design.
 
@@ -77,7 +77,7 @@ Creative portfolio website for a film production brand, focused on visual storyt
 ### 🏢 Ultimate Concrete Products
 🔗 https://ultimateconcreteproducts.com/  
 
-![Preview](images/concrete.png)
+![Preview](concrete.png)
 
 Industrial business website showcasing products and building trust with a strong, clean layout.
 
@@ -86,7 +86,7 @@ Industrial business website showcasing products and building trust with a strong
 ### 💻 Verdict Computers
 🔗 https://verdictcomputers.com/  
 
-![Preview](images/verdict.png)
+![Preview](verdict.png)
 
 Tech services website designed with a modern layout to present services and improve customer engagement.
 
@@ -95,7 +95,7 @@ Tech services website designed with a modern layout to present services and impr
 ### ✨ Pearls of Wisdom
 🔗 https://pearlswordsofwisdom.com  
 
-![Preview](images/pearls.png)
+![Preview](pearls.png)
 
 Content-focused website designed for readability, structure, and user-friendly navigation.
 
@@ -104,7 +104,7 @@ Content-focused website designed for readability, structure, and user-friendly n
 ### 🏢 NSM Ghana
 🔗 https://nsmghana.com  
 
-![Preview](images/nsm.png)
+![Preview](nsm.png)
 
 Corporate business website with structured content and responsive design.
 
