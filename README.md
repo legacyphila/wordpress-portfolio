@@ -32,7 +32,7 @@ This repository showcases a collection of WordPress websites I have designed and
 ### 💰 Valcrest Trust
 🔗 https://valcresttrust.com/  
 
-![Preview](images/valcrest.png)
+![Preview](concrete.png)
 
 Cryptocurrency and investment platform concept designed with a modern fintech UI, focused on trust, clarity, and user engagement.
 
