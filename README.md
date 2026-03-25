@@ -4,55 +4,117 @@ This repository showcases a collection of WordPress websites I have designed and
 
 ---
 
+## 🌍 Website Types I Build
+
+- Business & Corporate Websites  
+- E-commerce / Online Stores  
+- Cryptocurrency & Investment Platforms  
+- Law Firm & Legal Service Websites  
+- Logistics & Transportation Websites  
+- Real Estate Websites  
+- Portfolio & Personal Brand Websites  
+- Creative & Media Websites (Photography, Film, etc.)  
+- Landing Pages & Sales Funnels  
+- School & Educational Websites  
+- Church & NGO Websites  
+- Booking & Appointment Websites  
+- Health & Medical Websites  
+- Tech & Startup Websites  
+- Blogs & Content-Based Websites  
+- Directory & Listing Websites  
+- Event & Conference Websites  
+- Restaurant & Hospitality Websites   
+
+---
+
 ## 🌐 Projects
 
-### 1. Pearls of Wisdom
+### 💰 Valcrest Trust
+🔗 https://valcresttrust.com/  
+
+![Preview](images/valcrest.jpg)
+
+Cryptocurrency and investment platform concept designed with a modern fintech UI, focused on trust, clarity, and user engagement.
+
+---
+
+### ⚖️ Prestige Law Firms
+🔗 https://prestigelawfirms.com/  
+
+![Preview](images/prestige-law.jpg)
+
+Professional law firm website built to showcase legal services with a clean, authoritative, and conversion-focused design.
+
+---
+
+### 🚚 ShieldPath Logistics
+🔗 https://shieldpathlogistics.com/  
+
+![Preview](images/shieldpath.jpg)
+
+Modern logistics company website designed for service clarity, brand visibility, and customer engagement.
+
+---
+
+### 🛒 GH Online Market
+🔗 https://ghonlinemarket.com/  
+
+![Preview](images/gh-market.jpg)
+
+E-commerce marketplace with product listings, user-friendly navigation, and responsive shopping experience.
+
+---
+
+### 🎬 Melch Love Films
+🔗 https://melchlovefilms.com/  
+
+![Preview](images/melchlove.jpg)
+
+Creative portfolio website for a film production brand, focused on visual storytelling and modern design.
+
+---
+
+### 🏢 Ultimate Concrete Products
+🔗 https://ultimateconcreteproducts.com/  
+
+![Preview](images/concrete.jpg)
+
+Industrial business website showcasing products and building trust with a strong, clean layout.
+
+---
+
+### 💻 Verdict Computers
+🔗 https://verdictcomputers.com/  
+
+![Preview](images/verdict.jpg)
+
+Tech services website designed with a modern layout to present services and improve customer engagement.
+
+---
+
+### ✨ Pearls of Wisdom
 🔗 https://pearlswordsofwisdom.com  
-Spiritual and inspirational content website with a clean blog structure and user-friendly reading experience.
+
+![Preview](images/pearls.jpg)
+
+Content-focused website designed for readability, structure, and user-friendly navigation.
 
 ---
 
-### 2. Verdict Computers
-🔗 https://verdictcomputers.com  
-Business website for a computer services company, showcasing services and customer engagement features.
-
----
-
-### 3. CDR Africa
-🔗 https://cdrafrica.com  
-Corporate website designed to present organizational information in a clear and professional layout.
-
----
-
-### 4. NSM Ghana
+### 🏢 NSM Ghana
 🔗 https://nsmghana.com  
-Service-based company website with structured content and responsive design.
+
+![Preview](images/nsm.jpg)
+
+Corporate business website with structured content and responsive design.
 
 ---
 
-### 5. Melch Love Films
-🔗 https://melchlovefilms.com  
-Creative portfolio website for a film production brand, highlighting visual storytelling.
-
----
-
-### 6. Ultimate Concrete Products
-🔗 https://ultimateconcreteproducts.com  
-Industrial business website focused on showcasing products and company credibility.
-
----
-
-### 7. GH Online Market
-🔗 https://ghonlinemarket.com  
-E-commerce marketplace with product listings and user-friendly shopping experience.
-
----
-
-## 💼 Skills
+## 🧰 Skills
 
 - WordPress Design & Development  
 - Responsive Web Design  
-- E-commerce (WooCommerce)  
+- WooCommerce (E-commerce)  
 - UI/UX Design  
 - Website Optimization  
 
@@ -60,4 +122,5 @@ E-commerce marketplace with product listings and user-friendly shopping experien
 
 ## 📞 Contact
 
-Feel free to reach out for collaborations or projects.
+- Website: https://legacydigit.com  
+- GitHub: https://github.com/legacyphila  
